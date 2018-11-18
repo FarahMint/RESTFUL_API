@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_PW": "shopping-card07",
+    "JWT_KEY": "mysecretkey"
+  }
+}
